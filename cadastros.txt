@@ -1,0 +1,5 @@
+Laercio,42,M.
+Erica,39,F.
+Giovanna,6,F.
+Rebeca,13,F.
+Benjamim,1,M.
